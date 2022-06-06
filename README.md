@@ -33,7 +33,7 @@ Materiais e dicas de introdução a NER.
 
 ### Estudos guiados a NLP
 - https://cursosextensao.usp.br/course/view.php?id=2721
-- https://colab.research.google.com/drive/1dhEJ2VuphulLVwg9GKf0L9wEaVePN5cB?usp=sharing#scrollTo=XynbbcXlcUxx
+- [@lucasbrandao4770](https://github.com/lucasbrandao4770): https://colab.research.google.com/drive/1dhEJ2VuphulLVwg9GKf0L9wEaVePN5cB?usp=sharing#scrollTo=XynbbcXlcUxx
 - https://github.com/NielsRogge/Transformers-Tutorials
 
 ### *NER Tagging Schemes*
