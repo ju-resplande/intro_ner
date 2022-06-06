@@ -35,6 +35,9 @@ Materiais e dicas de introdução a NER.
 - https://cursosextensao.usp.br/course/view.php?id=2721
 - [@lucasbrandao4770](https://github.com/lucasbrandao4770): https://colab.research.google.com/drive/1dhEJ2VuphulLVwg9GKf0L9wEaVePN5cB?usp=sharing#scrollTo=XynbbcXlcUxx
 - https://github.com/NielsRogge/Transformers-Tutorials
+- https://github.com/EricFillion/happy-transformer
+- https://github.com/keon/awesome-nlp
+- https://github.com/ivan-bilan/The-NLP-Pandect
 
 ### *NER Tagging Schemes*
 - https://www.sciencedirect.com/science/article/pii/S1110866520301596
