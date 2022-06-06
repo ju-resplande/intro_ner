@@ -44,7 +44,7 @@ Materiais e dicas de introdução a NER.
 - https://forum.ailab.unb.br/t/datasets-em-portugues/251
 
 ## Dicas
-- Por @
+- Por @, rota de estudo:
   1. Estudar os formatos padrões (ex. Conll)
   2. Ler o artigo sobre bi-lstm para ner
   3. Testar frameworks alto nível do transformers (ex: Flairnlp, Simple-transformers FARM)
