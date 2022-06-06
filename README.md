@@ -34,6 +34,10 @@ Materiais e dicas de introdução a NER.
 - https://colab.research.google.com/drive/1dhEJ2VuphulLVwg9GKf0L9wEaVePN5cB?usp=sharing#scrollTo=XynbbcXlcUxx
 - https://github.com/NielsRogge/Transformers-Tutorials
 
+### *Ner Tagging Schemes*
+- https://www.sciencedirect.com/science/article/pii/S1110866520301596
+- https://en.wikipedia.org/wiki/Inside%E2%80%93outside%E2%80%93beginning_(tagging)
+
 ### Implementações
 - Simple-transformers: https://github.com/ThilinaRajapakse/simpletransformers/blob/master/examples/named_entity_recognition/named_entity_recognition.py
 - Flair: https://github.com/flairNLP/flair/tree/master/examples/ner
@@ -46,7 +50,7 @@ Materiais e dicas de introdução a NER.
 
 ## Dicas
 - Por @, rota de estudo:
-  1. Estudar os formatos padrões (ex. Conll)
+  1. Estudar os formatos (esquemas) padrões (ex. Conll)
   2. Ler o artigo sobre bi-lstm para ner
   3. Testar frameworks alto nível do transformers (ex: Flairnlp, Simple-transformers FARM)
   4. Ir para implementação do Transformers
