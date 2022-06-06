@@ -6,6 +6,7 @@
 <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/ju-resplande/intro_ner?style=social">
 Materiais e dicas de introdução a NER.
  
+
 <br />
 <br />
 <br />
@@ -13,6 +14,7 @@ Materiais e dicas de introdução a NER.
 | Só [escrever uma issue](https://github.com/ju-resplande/intro_ner/issues/new) que acrescento mais materiais aqui. :wink: |
 |---|
 
+<br />
 </div>
 
 
