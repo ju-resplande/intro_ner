@@ -52,7 +52,7 @@ Materiais e dicas de introdução a NER.
 - https://github.com/davidsbatista/NER-datasets
 
 ## Dicas
-- Por @, rota de estudo:
+- Por [@perkhad](https://github.com/Perkhad) rota de estudo:
   1. Estudar os formatos (esquemas) padrões (ex. Conll)
   2. Ler o artigo sobre bi-lstm para ner
   3. Testar frameworks alto nível do transformers (ex: Flairnlp, Simple-transformers FARM)
