@@ -42,7 +42,7 @@ Materiais e dicas de introdução a NER.
 
 ## Datasets
 - https://huggingface.co/datasets?task_categories=task_categories:token-classification
-- https://forum.ailab.unb.br/t/datasets-em-portugues/251
+- [@piegu](https://github.com/piegu): https://forum.ailab.unb.br/t/datasets-em-portugues/251
 
 ## Dicas
 - Por @, rota de estudo:
