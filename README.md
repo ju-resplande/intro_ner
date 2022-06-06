@@ -32,6 +32,7 @@ Materiais e dicas de introdução a NER.
 ### Estudos guiados a NLP
 - https://cursosextensao.usp.br/course/view.php?id=2721
 - https://colab.research.google.com/drive/1dhEJ2VuphulLVwg9GKf0L9wEaVePN5cB?usp=sharing#scrollTo=XynbbcXlcUxx
+- https://github.com/NielsRogge/Transformers-Tutorials
 
 ### Implementações
 - Simple-transformers: https://github.com/ThilinaRajapakse/simpletransformers/blob/master/examples/named_entity_recognition/named_entity_recognition.py
