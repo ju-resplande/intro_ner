@@ -5,7 +5,7 @@
 <img alt="GitHub" src="https://img.shields.io/github/license/ju-resplande/intro_ner">
 <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/ju-resplande/intro_ner?style=social">
 Materiais e dicas de introdução a NER.
- 
+
 
 <br />
 <br />
