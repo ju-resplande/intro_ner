@@ -34,7 +34,7 @@ Materiais e dicas de introdução a NER.
 - https://colab.research.google.com/drive/1dhEJ2VuphulLVwg9GKf0L9wEaVePN5cB?usp=sharing#scrollTo=XynbbcXlcUxx
 - https://github.com/NielsRogge/Transformers-Tutorials
 
-### *Ner Tagging Schemes*
+### *NER Tagging Schemes*
 - https://www.sciencedirect.com/science/article/pii/S1110866520301596
 - https://en.wikipedia.org/wiki/Inside%E2%80%93outside%E2%80%93beginning_(tagging)
 
