@@ -29,11 +29,12 @@ Materiais e dicas de introdução a NER.
 - https://medium.com/elinttech/uma-vis%C3%A3o-geral-sobre-named-entity-recognition-ner-4dc4e3b5e37a
 
 ### Artigos acadêmicos
-
+- https://arxiv.org/abs/1603.01360
+- https://arxiv.org/abs/1910.11470
 
 ### Estudos guiados a NLP
 - https://cursosextensao.usp.br/course/view.php?id=2721
-- [@lucasbrandao4770](https://github.com/lucasbrandao4770): https://colab.research.google.com/drive/1dhEJ2VuphulLVwg9GKf0L9wEaVePN5cB?usp=sharing#scrollTo=XynbbcXlcUxx
+- [@lucasbrandao4770](https://github.com/lucasbrandao4770): https://colab.research.google.com/drive/1dhEJ2VuphulLVwg9GKf0L9wEaVePN5cB
 - https://github.com/NielsRogge/Transformers-Tutorials
 - https://github.com/EricFillion/happy-transformer
 - https://github.com/keon/awesome-nlp
