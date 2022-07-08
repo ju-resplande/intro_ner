@@ -39,6 +39,7 @@ Materiais e dicas de introdução a NER.
 - https://github.com/EricFillion/happy-transformer
 - https://github.com/keon/awesome-nlp
 - https://github.com/ivan-bilan/The-NLP-Pandect
+- https://github.com/dair-ai/Transformers-Recipe
 
 ### *NER Tagging Schemes*
 - https://www.sciencedirect.com/science/article/pii/S1110866520301596
