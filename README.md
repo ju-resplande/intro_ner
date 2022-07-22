@@ -56,6 +56,9 @@ Materiais e dicas de introdução a NER.
 - [@piegu](https://github.com/piegu): https://forum.ailab.unb.br/t/datasets-em-portugues/251
 - https://github.com/davidsbatista/NER-datasets
 
+## Exemplos
+- https://github.com/gdutramartins/po-ner-2-portuguese-ner
+
 ## Dicas
 - Por [@perkhad](https://github.com/Perkhad) rota de estudo:
   1. Estudar os formatos (esquemas) padrões (ex. Conll)
