@@ -21,7 +21,7 @@ Materiais e dicas de introdução a NER.
 
 
 ## O que é NER?
-*Named-Entitity Recognition* (NER) também conhecido como extração de entidades é uma tarefa de processamento de linguagem natural (NLP) voltada para a classificação de sequências (de tokens).
+*Named-Entitity Recognition* (NER) também conhecido como *extração de entidades* é uma tarefa de processamento de linguagem natural (NLP) voltada para a classificação de sequências (de tokens).
 
 ## Materiais
 ### Definição básica
