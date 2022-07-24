@@ -35,6 +35,7 @@ Materiais e dicas de introdução a NER.
 ### Estudos guiados a NLP
 - https://cursosextensao.usp.br/course/view.php?id=2721
 - [@lucasbrandao4770](https://github.com/lucasbrandao4770): https://colab.research.google.com/drive/1dhEJ2VuphulLVwg9GKf0L9wEaVePN5cB
+- https://github.com/thunlp/NLP-THU
 - https://github.com/NielsRogge/Transformers-Tutorials
 - https://github.com/EricFillion/happy-transformer
 - https://github.com/keon/awesome-nlp
